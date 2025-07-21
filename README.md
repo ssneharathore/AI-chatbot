@@ -5,7 +5,8 @@ AI-powered chatbot built using Python and NLP
 This is an AI-based chatbot project I built while following a YouTube tutorial to understand how natural language processing works in real-time applications.
 ## 📸 Preview
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](<img width="1158" height="679" alt="AI-chatbot" src="https://github.com/user-attachments/assets/07e864f7-90e6-474c-ba7c-33b0df294de8" />
+)
 
 Live demo 👉 [ai-chatbot-seven-chi-60.vercel.app](https://ai-chatbot-seven-chi-60.vercel.app)
 
